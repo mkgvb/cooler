@@ -1,0 +1,8 @@
+.vscode
+__pycache__
+logs
+*.log
+*.pid
+*secrets*
+*.egg-info
+venv
